@@ -1,4 +1,4 @@
-#!/home/jquiceno2000/workspace/github.com/josequiceno2000/magik-8/sr/bin/python3
+#!/home/jquiceno2000/workspace/github.com/josequiceno2000/magik-8/sr/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

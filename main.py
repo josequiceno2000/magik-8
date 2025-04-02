@@ -1,9 +1,11 @@
 from user_input import get_user_input
-import pyaudio
+from sentiment_analysis import sentiment_analysis
 
 def main():
     """Gets user input via speech to text and outputs it to the console"""
-    get_user_input()
+    user_question = get_user_input()
+    sentiment_analysis(user_question)
+
 
 if __name__ == "__main__":
     main() 
