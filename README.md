@@ -14,4 +14,4 @@ Themed Shakespearean Magic 8-Ball with voice activation and sentiment analysis
 
 ## Steps:
 1. ~~Create a main.py set up properly~~ ✓
-2. Get user input using speech_recognition library.
+2. ~~Get user input using speech_recognition library.~~ ✓
